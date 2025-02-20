@@ -11,3 +11,5 @@ I really like computers and also the components they have, the kind of technolog
 
 I would like to program but I feel that it is a somewhat difficult path
 
+En este repositorio estoy tratando de hacer mi propio videojuego en python
+
